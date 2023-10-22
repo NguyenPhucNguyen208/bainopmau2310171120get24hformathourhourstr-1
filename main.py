@@ -24,7 +24,29 @@ testcase_list = [
   {'input': ['11 AM'],          'output':'11',     'tc_name': 'tc10'},
   {'input': ['10 PM'],          'output':'22',     'tc_name': 'tc11'},
   {'input': ['11 PM'],          'output':'23',     'tc_name': 'tc12'},
-
+  
+  {'input': ['07:15AM'],   'output': '7',   'tc_name': 'tc13'},
+  {'input': ['02:49PM'],   'output': '14',  'tc_name': 'tc14'},
+  {'input': ['06:46 AM'],  'output': '6',   'tc_name': 'tc15'},
+  {'input': ['00:54'],     'output': '0',   'tc_name': 'tc16'},
+  {'input': ['0606PM'],    'output': '18',  'tc_name': 'tc17'},
+  {'input': ['08:24 AM'],  'output': '8',   'tc_name': 'tc18'},
+  {'input': ['1006 AM'],   'output': '10',  'tc_name': 'tc19'},
+  {'input': ['0252 PM'],   'output': '14',  'tc_name': 'tc20'},
+  {'input': ['09:24AM'],   'output': '9',   'tc_name': 'tc21'},
+  {'input': ['0802 AM'],   'output': '8',   'tc_name': 'tc22'},
+  {'input': ['05:41 PM'],  'output': '17',  'tc_name': 'tc23'},
+  {'input': ['0309'],      'output': '3',   'tc_name': 'tc24'},
+  {'input': ['03:58 PM'],  'output': '15',  'tc_name': 'tc25'},
+  {'input': ['10:16'],     'output': '10',  'tc_name': 'tc26'},
+  {'input': ['23:38'],     'output': '23',  'tc_name': 'tc27'},
+  {'input': ['08:21'],     'output': '8',   'tc_name': 'tc28'},
+  {'input': ['0848'],      'output': '8',   'tc_name': 'tc29'},
+  {'input': ['07:47 PM'],  'output': '19',  'tc_name': 'tc30'},
+  {'input': ['09:39 PM'],  'output': '21',  'tc_name': 'tc31'},
+  {'input': ['0945'],      'output': '9',   'tc_name': 'tc32'},
+  {'input': ['01:45PM'],   'output': '13',  'tc_name': 'tc33'},
+  {'input': ['07:44PM'],   'output': '19',  'tc_name': 'tc34'},
 ]
 #endregion testkey_list
 
